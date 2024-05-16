@@ -10,8 +10,8 @@ const ibmPlexSerif = IBM_Plex_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "Rifqi Bank",
-  description: "Rifqi Bank is a bank that provides a variety of services.",
+  title: "R Bank",
+  description: "R Bank is a bank that provides a variety of services.",
   icons: {
     icon: "/icons/logo.svg",
   },
